@@ -15,3 +15,5 @@ Solution Notes:
 -   Used Featherlite for the Lightbox modal.
 - Other notes:
 -   Page is responsive, so it will adjust to screen size
+-   Page takes a few seconds to load, not sure how to optimize
+-   Gathered the images from the following response: //photorankapi-a.akamaihd.net/customers/215757/media/recent?auth_token=0a40a13fd9d531110b4d6515ef0d6c529acdb59e81194132356a1b8903790c18&version=v2.2
